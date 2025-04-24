@@ -3,4 +3,5 @@
 # Exclude the secure directory
 secure/
 #Exclude specific files
-guilty_pleasures.md
+guilty_pleasures.md 
+advert.html 
