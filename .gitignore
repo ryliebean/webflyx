@@ -1,0 +1,6 @@
+# Untracked Files
+[...]
+# Exclude the secure directory
+secure/
+#Exclude specific files
+guilty_pleasures.md
